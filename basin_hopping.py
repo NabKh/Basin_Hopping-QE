@@ -8,13 +8,6 @@
 # coupled to Quantum Espresso 5.2 (DFT code as calculator)
 # It also works with newest QE version, 6.0
 #
-# Author  : Andres Lopez Martinez (IF-UNAM)
-# Advisor : Dr. Oliver Paz Borbon (IF-UNAM)
-#
-# Financial Support (PAPIIT-UNAM: Project  IA102716
-# Computational resources (Miztli-UNAM):   SC15-1-IG-82
-# SC16-1-IG-78
-#
 #
 # Note: Output folders will be generated in current directory
 ##############################################################
