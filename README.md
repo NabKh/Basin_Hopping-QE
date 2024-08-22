@@ -55,21 +55,3 @@ To run the project, execute the main program as: `python 3.4 basin_hopping.py in
 
 Other than the `input.bh` file, the other files that need specification are the QE input file `input.in` and the QE run script
 `run.sh` (within the `input` directory). These are the usual QE run files. 
-
-## Credits
-
-Author  : Andres Lopez Martinez
-
-Advisor : Dr. Oliver Paz Borbon (IF-UNAM)
-
-Financial Support (PAPIIT-UNAM): Project  IA102716
-
-Computational resources (Miztli-UNAM):   SC15-1-IG-82
-
-SC16-1-IG-78
-
-Project Contact: Dr. Oliver Paz Borbon oliver_paz@fisica.unam.mx
-
-## License
-
-Unless otherwise noted, this work is released under: http://www.apache.org/licenses/LICENSE-2.0
